@@ -98,7 +98,7 @@ exportar con *File → Export*.
 
 | Archivo | Qué es |
 |---|---|
-| `Semana6_Actividad2_Patron_Singleton_Deibis_Zuluaga.pdf` | Informe técnico: diagrama, implementación, principios de diseño y análisis de riesgos (12 páginas) |
+| `Semana6_Actividad2_Patron_Singleton_Deibis_Zuluaga.pdf` | Informe técnico: diagrama, implementación, principios de diseño y peligro de no usar el Singleton (12 páginas) |
 | `banco_central.py` | Clase `BancoCentral` con el patrón Singleton |
 | `usuarios.py` | Modelo de la Quantum Wallet integrado con el Banco Central |
 | `comprobacion_singleton.py` | Script de verificación (no forma parte del modelo) |
